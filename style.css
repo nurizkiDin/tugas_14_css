@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    color: white;
+    padding: 24px;
+    font-family: Poppins, "Helvetica Neue", arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    width: 200px;
+}
+.box1{
+    background-color: #00ffff;
+}
+.box2{
+    background-color: #0fff80;
+}
+.box3{
+    background-color: #ff800f;
+}
+.box4{
+    background-color: #f0ff02;
+}
+.box5{
+    background-color: #deb887;
+}
+.box6{
+    background-color: #af0099;
+}
+.box7{
+    background-color: #0082ff;
+}
+.box8{
+    background-color: #ff0909;
+}
+.box9{
+    background-color: #d0d0d0;
+}
+.box10{
+    background-color: #707070;
+}
